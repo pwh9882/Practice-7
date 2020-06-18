@@ -1,1 +1,3 @@
-20203070 Woohyeok-Park, Software
+20203070, Woohyeok-Park
+Software
+Kookmin Univ.
